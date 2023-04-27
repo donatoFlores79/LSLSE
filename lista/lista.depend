@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1681863082 source:c:\users\usuario\downloads\lista\main.cpp
+	<iostream>
+
+1682576836 source:d:\seminario de estructuras de datos\clase\lista\main.cpp
+	<iostream>
+	"socio_club.h"
+
+1682434668 d:\seminario de estructuras de datos\clase\lista\socio_club.h
+	<iostream>
+	<string>
+
+1682565312 source:d:\seminario de estructuras de datos\clase\lista\socio_club.cpp
+	"socio_club.h"
+
