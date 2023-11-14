@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1699931810 source:d:\3sem\seminario estructuras de datos 1\lslse2\main.cpp
+	"SocioClub.h"
+
+1699931008 d:\3sem\seminario estructuras de datos 1\lslse2\socioclub.h
+	"iostream"
+	<string>
+
+1699930958 source:d:\3sem\seminario estructuras de datos 1\lslse2\socioclub.cpp
+	"SocioClub.h"
+
